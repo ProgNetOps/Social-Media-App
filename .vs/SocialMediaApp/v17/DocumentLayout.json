@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL MEDIA\\SocialMediaApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,8 +53,60 @@
               "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SocialMediaApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:49:41.905Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Program.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Program.cs",
+              "RelativeToolTip": "SocialMediaApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:38:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialMediaApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\appsettings.json",
+              "RelativeToolTip": "SocialMediaApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T21:32:31.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T02:49:17.236Z",
+              "EditorCaption": ""
             }
           ]
         }
