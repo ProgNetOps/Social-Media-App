@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using SocialMedia.Data.Models;
+using System.ComponentModel.DataAnnotations;
 
 namespace SocialMediaApp.Data.Models
 {
@@ -11,6 +12,12 @@ namespace SocialMediaApp.Data.Models
         public int NrOfReports { get; set; }
         public DateTime DateCreated { get; set; }
         public DateTime DateUpdated { get; set; }
+
+        //Foreign key
+        public int UserId { get; set; }
+
+        //Navigation properties
+        public User User { get; set; }
 
     }
 }

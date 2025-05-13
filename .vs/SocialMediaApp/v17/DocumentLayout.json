@@ -3,16 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1848E28E-BDAA-4113-8B58-C7B24E8E5708}|SocialMediaApp.Data\\SocialMediaApp.Data.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1848E28E-BDAA-4113-8B58-C7B24E8E5708}|SocialMediaApp.Data\\SocialMediaApp.Data.csproj|solutionrelative:socialmediaapp.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SEYI_MSSERVER/SocialMediaApp/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Migrations\\20250513035037_Added_User_Post_Relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SocialMediaApp.Data\\Migrations\\20250513035037_Added_User_Post_Relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1848E28E-BDAA-4113-8B58-C7B24E8E5708}|SocialMediaApp.Data\\SocialMediaApp.Data.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1848E28E-BDAA-4113-8B58-C7B24E8E5708}|SocialMediaApp.Data\\SocialMediaApp.Data.csproj|solutionrelative:socialmediaapp.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1848E28E-BDAA-4113-8B58-C7B24E8E5708}|SocialMediaApp.Data\\SocialMediaApp.Data.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp.data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1848E28E-BDAA-4113-8B58-C7B24E8E5708}|SocialMediaApp.Data\\SocialMediaApp.Data.csproj|solutionrelative:socialmediaapp.data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1848E28E-BDAA-4113-8B58-C7B24E8E5708}|SocialMediaApp.Data\\SocialMediaApp.Data.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1848E28E-BDAA-4113-8B58-C7B24E8E5708}|SocialMediaApp.Data\\SocialMediaApp.Data.csproj|solutionrelative:socialmediaapp.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Migrations\\20250513033819_User_Added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SocialMediaApp.Data\\Migrations\\20250513033819_User_Added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,21 +45,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\User.cs",
-              "RelativeToolTip": "SocialMediaApp.Data\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T03:33:20.74Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -71,24 +73,82 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.__EFMigrationsHistory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SEYI_MSSERVER/SocialMediaApp/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "dbo.__EFMigrationsHistory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T03:55:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20250513035037_Added_User_Post_Relation.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Migrations\\20250513035037_Added_User_Post_Relation.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Migrations\\20250513035037_Added_User_Post_Relation.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Migrations\\20250513035037_Added_User_Post_Relation.cs",
+              "RelativeToolTip": "SocialMediaApp.Data\\Migrations\\20250513035037_Added_User_Post_Relation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:50:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\Post.cs",
+              "RelativeToolTip": "SocialMediaApp.Data\\Models\\Post.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:43:01.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250513033819_User_Added.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Migrations\\20250513033819_User_Added.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Migrations\\20250513033819_User_Added.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Migrations\\20250513033819_User_Added.cs",
+              "RelativeToolTip": "SocialMediaApp.Data\\Migrations\\20250513033819_User_Added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:38:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\User.cs",
+              "RelativeToolTip": "SocialMediaApp.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:33:20.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SocialMediaApp.Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\AppDbContext.cs",
               "RelativeToolTip": "SocialMediaApp.Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T03:33:08.848Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Program.cs",
               "RelativeDocumentMoniker": "SocialMediaApp\\Program.cs",
@@ -101,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SocialMediaApp\\Controllers\\HomeController.cs",
@@ -109,12 +169,11 @@
               "RelativeToolTip": "SocialMediaApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T02:45:49.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T02:45:49.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
@@ -122,8 +181,11 @@
               "RelativeToolTip": "SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T02:49:17.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T02:49:17.236Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
