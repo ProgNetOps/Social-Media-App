@@ -1,0 +1,15 @@
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\bin\Debug\net9.0\SocialMediaApp.Data.deps.json
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\bin\Debug\net9.0\SocialMediaApp.Data.runtimeconfig.json
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\bin\Debug\net9.0\SocialMediaApp.Data.dll
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\bin\Debug\net9.0\SocialMediaApp.Data.pdb
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.csproj.AssemblyReference.cache
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.AssemblyInfoInputs.cache
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.AssemblyInfo.cs
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.sourcelink.json
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.dll
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\refint\SocialMediaApp.Data.dll
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.pdb
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\SocialMediaApp.Data.genruntimeconfig.cache
+C:\Users\'Seyi\Desktop\PROJS\SOCIAL-MEDIA\SocialMediaApp\SocialMediaApp.Data\obj\Debug\net9.0\ref\SocialMediaApp.Data.dll

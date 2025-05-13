@@ -892,13 +892,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SocialMediaApp.kbt1qddwo7.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sMjl3pvVDrNdXW3VrOJpQlJb1st3zJweliphq8MJy/Y="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sMjl3pvVDrNdXW3VrOJpQlJb1st3zJweliphq8MJy/Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 02:57:14 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sMjl3pvVDrNdXW3VrOJpQlJb1st3zJweliphq8MJy/Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 03:32:57 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SocialMediaApp/SocialMediaApp.kbt1qddwo7.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SocialMediaApp.kbt1qddwo7.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kbt1qddwo7"},{"Name":"integrity","Value":"sha256-sMjl3pvVDrNdXW3VrOJpQlJb1st3zJweliphq8MJy/Y="},{"Name":"label","Value":"_content/SocialMediaApp/SocialMediaApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sMjl3pvVDrNdXW3VrOJpQlJb1st3zJweliphq8MJy/Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 02:57:14 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sMjl3pvVDrNdXW3VrOJpQlJb1st3zJweliphq8MJy/Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 03:32:57 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SocialMediaApp/syntax-highlighter/scripts/shBrushJScript.6w9j14fygc.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\syntax-highlighter\scripts\shBrushJScript.js'))</AssetFile>

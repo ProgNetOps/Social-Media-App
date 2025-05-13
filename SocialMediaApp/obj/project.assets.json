@@ -1598,6 +1598,20 @@
             "rid": "win"
           }
         }
+      },
+      "SocialMediaApp.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.4"
+        },
+        "compile": {
+          "bin/placeholder/SocialMediaApp.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SocialMediaApp.Data.dll": {}
+        }
       }
     }
   },
@@ -4701,13 +4715,19 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "SocialMediaApp.Data/1.0.0": {
+      "type": "project",
+      "path": "../SocialMediaApp.Data/SocialMediaApp.Data.csproj",
+      "msbuildProject": "../SocialMediaApp.Data/SocialMediaApp.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
-      "Microsoft.EntityFrameworkCore.Tools >= 9.0.4"
+      "Microsoft.EntityFrameworkCore.Tools >= 9.0.4",
+      "SocialMediaApp.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4742,7 +4762,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\'Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\SocialMediaApp.Data.csproj": {
+              "projectPath": "C:\\Users\\'Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\SocialMediaApp.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

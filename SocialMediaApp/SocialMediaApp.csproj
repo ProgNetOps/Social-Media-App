@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SocialMediaApp.Data\SocialMediaApp.Data.csproj" />
+  </ItemGroup>
+
 </Project>
