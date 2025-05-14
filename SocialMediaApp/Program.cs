@@ -1,5 +1,7 @@
-using Microsoft.EntityFrameworkCore;
 using SocialMediaApp.Data;
+using SocialMediaApp.Data.Helpers;
+using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,15 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(dbCo
 
 
 var app = builder.Build();
+
+//Seed the database with initial data
+using(var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    //Ensure pending migrations are executed
+    await dbContext.Database.MigrateAsync();
+    await DbInitializer.SeedAsync(dbContext);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
