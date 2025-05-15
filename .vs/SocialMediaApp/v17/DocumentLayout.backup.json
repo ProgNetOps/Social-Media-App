@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\social-media\\socialmediaapp\\socialmediaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCC978C4-7F2B-4577-B0B0-EEB50E8D4B6C}|SocialMediaApp\\SocialMediaApp.csproj|solutionrelative:socialmediaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,59 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Helpers\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Helpers\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Helpers\\DbInitializer.cs",
-              "RelativeToolTip": "SocialMediaApp.Data\\Helpers\\DbInitializer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAASwCwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T04:13:30.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\User.cs",
-              "RelativeToolTip": "SocialMediaApp.Data\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T03:33:20.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Program.cs",
-              "RelativeDocumentMoniker": "SocialMediaApp\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Program.cs",
-              "RelativeToolTip": "SocialMediaApp\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwBsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T21:38:16.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Models\\Post.cs",
-              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\Post.cs",
-              "RelativeToolTip": "SocialMediaApp.Data\\Models\\Post.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T03:43:01.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SocialMediaApp.Data\\AppDbContext.cs",
@@ -130,12 +78,11 @@
               "RelativeToolTip": "SocialMediaApp.Data\\AppDbContext.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T03:33:08.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T03:33:08.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SocialMediaApp\\Controllers\\HomeController.cs",
@@ -143,20 +90,69 @@
               "RelativeToolTip": "SocialMediaApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T02:45:49.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T02:45:49.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SocialMediaApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAiwH8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T02:49:17.236Z"
+              "WhenOpened": "2025-05-10T02:49:17.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Program.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp\\Program.cs",
+              "RelativeToolTip": "SocialMediaApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:38:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\Post.cs",
+              "RelativeToolTip": "SocialMediaApp.Data\\Models\\Post.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:43:01.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Models\\User.cs",
+              "RelativeToolTip": "SocialMediaApp.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:33:20.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Helpers\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "SocialMediaApp.Data\\Helpers\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\SOCIAL-MEDIA\\SocialMediaApp\\SocialMediaApp.Data\\Helpers\\DbInitializer.cs",
+              "RelativeToolTip": "SocialMediaApp.Data\\Helpers\\DbInitializer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:13:30.634Z"
             }
           ]
         }
